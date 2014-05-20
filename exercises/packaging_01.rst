@@ -1,16 +1,16 @@
 Modify this project to follow the following project hierarchy (the unexisting
 files should be empty files):
 
-exercises/
-doc/
 interactions/
    LICENSE.txt
    README.md
    interactions/
        __init__.py
        interactions.py
-       test_interactions.py
+       tests/test_interactions.py
    setup.py
+  exercises/
+  doc/
 
 
 OPTIONAL

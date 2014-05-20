@@ -15,7 +15,8 @@ Instructions
 1. In the python module you have created previously (interactions), add an
   empty python module `nonlinear.py`.
 
-2. Create a file named `test_nonlinear.py` with the following content:
+2. Create a file named `test_nonlinear.py` in `interactions/tests` with the 
+  following content:
 
    ```python
    

@@ -1,8 +1,8 @@
 Create a file: MANIFEST.in next to setup.py with the content::
 
-  include README.md
+  i nclude README.md
   include LICENSE.txt
-  recursive-include interactive *
+  recursive-include interactionu *
 
 Then run::
 
