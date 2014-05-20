@@ -1,6 +1,8 @@
 Modify this project to follow the following project hierarchy (the unexisting
 files should be empty files):
 
+exercises/
+doc/
 interactions/
    LICENSE.txt
    README.md
