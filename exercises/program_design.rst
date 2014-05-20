@@ -1,8 +1,10 @@
 Unicellular Automates
 =====================
 
+(original assignment designed by Guillaume Moreau)
 
-Design the following software:
+
+Design the following software with a pen and paper:
 
 We want to model the behaviour of unicellular automates called "neuneu", when
 put in a closed space, that we will refer to as "the loft". These unicellular
