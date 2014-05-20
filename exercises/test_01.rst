@@ -12,14 +12,14 @@ of the project are covered.
 Instructions
 ************
 
-1. Create a new Python pakage named `scbctesting` with an empty `__init__.py`
-   file inside and an empty module `nonlinear.py`.
+1. In the python module you have created previously (interactions), add an
+  empty python module `nonlinear.py`.
 
 2. Create a file named `test_nonlinear.py` with the following content:
 
    ```python
    
-   from scbctesting.nonlinear import interaction
+   from interactions.nonlinear import interaction
    
    
    def test_close_interaction():
@@ -33,7 +33,7 @@ Instructions
        assert interaction(1, 4) == 9
    ```
 
-   Those tests make the expectation that the module `scbctesting.nonlinear` has
+   Those tests make the expectation that the module `interactions.nonlinear` has
    a function named `interaction` that compute a linear interaction (e.g. the
    difference) if the two argument are close enough and a quadratic interaction
    when the 2 arguments less similar.

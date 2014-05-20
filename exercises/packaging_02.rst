@@ -1,6 +1,7 @@
 Exercise 02:
 
-Create the setup.py file, replacing the information by the correct one::
+Create the setup.py file, replacing the information with the proper one::
+
 
   from distutils.core import setup
 

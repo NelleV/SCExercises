@@ -2,7 +2,7 @@ Create a file: MANIFEST.in next to setup.py with the content::
 
   include README.md
   include LICENSE.txt
-  recursive-include scbctesting *
+  recursive-include interactive *
 
 Then run::
 
